@@ -11,7 +11,7 @@ namespace figurasmvc.Controllers{
 
     public class figurasController : Controller{
 
-        public IActionResult Area(){
+        public IActionResult figuras(){
             return View();
         }
     }
