@@ -1,2 +1,2 @@
 # figurasmvc
-añadí el apartado de circunferencia
+añadi el apartado de circunferencia
