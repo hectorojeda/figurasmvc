@@ -9,7 +9,7 @@ using figurasmvc.Models;
 
 namespace figurasmvc.Controllers{
 
-    public class figurasController : Controller{
+    public class areaController : Controller{
 
         public IActionResult Area(){
             return View();
