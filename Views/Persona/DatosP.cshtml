@@ -1,0 +1,11 @@
+@model figurasmvc.Models.PModel 
+@{
+    ViewData["Titulo"] = "Datos Personales";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Titulo"]</h1>
+    <h3 class="display-4">@Model.id</h3>
+    <h3 class="display-4">@Model.name</h3>
+    <h3 class="display-4">@Model.lastname</h3>
+</div>
